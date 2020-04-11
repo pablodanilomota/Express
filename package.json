@@ -1,0 +1,11 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Pablo75321/Express.git",
+  "author": "Pablo Danilo <pablodanilo75321@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
